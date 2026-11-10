@@ -113,7 +113,7 @@ Saat aplikasi dijalankan, sistem akan:
 ## Screenshot Landscape
 
 ```md
-![Screenshot Landscape Aplikasi](screenshot.png)
+![Screenshot Landscape Aplikasi](./screenshot.png)
 ```
 
 ## Catatan
