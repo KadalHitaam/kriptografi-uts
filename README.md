@@ -110,12 +110,6 @@ Saat aplikasi dijalankan, sistem akan:
 - Kunci master digunakan untuk membuka private key saat runtime.
 - Aplikasi menghindari penyimpanan plaintext di database.
 
-## Screenshot Landscape
-
-```md
-![Screenshot Landscape Aplikasi](./screenshot.png)
-```
-
 ## Catatan
 
 Aplikasi ini dirancang untuk berjalan plug-and-play pada Laragon tanpa perlu memisahkan logika ke file baru. UI dan layout tetap dipertahankan seperti yang sudah dibuat.
